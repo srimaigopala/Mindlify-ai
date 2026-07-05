@@ -50,8 +50,4 @@ GEMINI_API_KEY=your_gemini_api_key
 User → Backend → Gemini AI → AI Summary
 ```
 
-## 👩‍💻 Author
 
-**Srimai Gopala**
-
-GitHub: https://github.com/srimaigopala
